@@ -5,7 +5,7 @@ You have just joined RKL Insurance company’s IT department as a front-end engi
 
 This is the final project for this course and has several steps that you must complete. You will be building on the Budget allocation application you built using react in the practice project.
 
-In this project, you will be given tasks to complete and render them into your budget allocation app. The completed Budget Allocation application page should look like the image provided
+In this project, you will be given tasks to complete and render them into your budget allocation app. View the completed Budget Allocation application page by clicking on shopping_app.png
 
 
 
