@@ -1,3 +1,14 @@
+Creating Shopping App
+
+Final project: Scenario
+You have just joined RKL Insurance company’s IT department as a front-end engineer. The company wants you to create an application front end which will allow them to plan for budgeting expenses for various departments. The person that worked in this position before has completed the code but has not paid attention to some of the features that were specifically asked for. You are now entrusted with this responsibility and you are expected to deliver the project within expected timeline.
+
+This is the final project for this course and has several steps that you must complete. You will be building on the Budget allocation application you built using react in the practice project.
+
+In this project, you will be given tasks to complete and render them into your budget allocation app. The completed Budget Allocation application page should look like the image provided
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
